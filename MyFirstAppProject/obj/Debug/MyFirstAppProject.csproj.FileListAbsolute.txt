@@ -1,6 +1,0 @@
-C:\repos\MyFirstAppSolution\MyFirstAppProject\bin\Debug\MyFirstAppProject.exe.config
-C:\repos\MyFirstAppSolution\MyFirstAppProject\bin\Debug\MyFirstAppProject.exe
-C:\repos\MyFirstAppSolution\MyFirstAppProject\bin\Debug\MyFirstAppProject.pdb
-C:\repos\MyFirstAppSolution\MyFirstAppProject\obj\Debug\MyFirstAppProject.csprojResolveAssemblyReference.cache
-C:\repos\MyFirstAppSolution\MyFirstAppProject\obj\Debug\MyFirstAppProject.exe
-C:\repos\MyFirstAppSolution\MyFirstAppProject\obj\Debug\MyFirstAppProject.pdb
