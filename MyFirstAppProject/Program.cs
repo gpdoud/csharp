@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MyFirstAppProject {
     class Program {
         static void MyFirstMethod() {
-            Console.WriteLine("Main is just about done");
+            System.Console.WriteLine("Main is just about done");
             Console.ReadKey();
         }
         static void Main(string[] args) {
@@ -17,7 +17,8 @@ namespace MyFirstAppProject {
             Customer customer2 = new Customer();
             customer2.AddToCounter(10);
             customer2.DisplayCounter();
-            customer2.
+            int cntr = customer2.Counter;
+            customer2.Counter = cntr + 1;
 
         }
         static void Tutorial() { 
